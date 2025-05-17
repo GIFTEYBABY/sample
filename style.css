@@ -355,6 +355,9 @@
   align-items: center;
   gap: 20px;
 }
+.header-content div a {
+  text-decoration: none;
+}
 .bell {
   position: relative;
   font-size: 18px;
