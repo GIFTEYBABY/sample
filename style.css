@@ -357,6 +357,7 @@
 }
 .header-content div a {
   text-decoration: none;
+  color: black;
 }
 .bell {
   position: relative;
